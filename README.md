@@ -1,7 +1,7 @@
 # Selected3_project
 Fake News Detection
 
-To run the project on colab: 
+   To run the project on colab: 
 
  1- Upload the (.ipynb) file & (utils.py) into your 'Files' section. 
  
@@ -9,7 +9,7 @@ To run the project on colab:
  
  3- Run the project.
 
-To run the project on jupyter notebook
+   To run the project on jupyter notebook
 
  1- Put all the files in one folder. 
  
