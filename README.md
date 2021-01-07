@@ -11,5 +11,5 @@ To run the project on jupyter notebook:
 ---------------------------------------
 
 1- Put all the files in one folder.<br />
-2- Open CMD and write the next command: 'jupyter notebook'.<br />
+2- Open the cmd in the same folder and write the next command: 'jupyter notebook'.<br />
 3- A session will be opened then run the (.ipynb) file.
