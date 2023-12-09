@@ -1,15 +1,23 @@
-# Selected3_project: Fake News Detection
+# Fake News Detection System
 
-To run the project on colab:
-----------------------------
+### Project Execution Instructions:
+To execute the Fake News Detection project using either Google Colab or Jupyter Notebook, follow the steps outlined below:
 
-1- Upload the (.ipynb) file & (utils.py) into your 'Files' section.<br />
-2- Upload the dataset (data.csv).<br />
-3- Run the project.
+### Google Colab:
 
-To run the project on jupyter notebook:
----------------------------------------
+- **Upload Files:** Upload the project file (Selected3_project.ipynb) and the utility file (utils.py) to your Colab 'Files' section.
 
-1- Put all the files in one folder.<br />
-2- Open the cmd in the same folder and write the next command: 'jupyter notebook'.<br />
-3- A session will be opened then run the (.ipynb) file.
+- **Upload Dataset:** Import the dataset (data.csv) into your Colab environment.
+
+- **Run Project:** Execute the project within the Colab environment.
+
+### Jupyter Notebook:
+
+- **Organize Files:** Place all project files (Selected3_project.ipynb, utils.py, and data.csv) in a single folder.
+
+- **Open Command Prompt (cmd):** Navigate to the folder using the command prompt.
+
+- **Launch Jupyter Notebook:** Enter the command jupyter notebook in the command prompt to initiate a Jupyter Notebook session.
+
+- **Run Project File:** Once the session is active, open the .ipynb file and run the project.
+
